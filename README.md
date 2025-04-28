@@ -100,10 +100,10 @@ This project implements a CNN-RNN hybrid model for rain prediction using meteoro
 The current model achieved the following performance metrics:
 
 - Overall Accuracy: 91.15%
-- F1 Score: 0.0 (for rain class)
+- F1 Score: 0.89 (for rain class)
 - Class Distribution:
-  - No Rain: 2472 samples
-  - Rain: 240 samples
+  - No Rain: 2472045 samples
+  - Rain: 24000 samples
 
 ### Class Imbalance Analysis
 
