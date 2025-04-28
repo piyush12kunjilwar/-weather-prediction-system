@@ -1,0 +1,47 @@
+[
+    {
+        "learning_rate": 0.1,
+        "dropout_rate": 0.2,
+        "val_accuracy": 0.9303534030914307
+    },
+    {
+        "learning_rate": 0.1,
+        "dropout_rate": 0.3,
+        "val_accuracy": 0.9303534030914307
+    },
+    {
+        "learning_rate": 0.1,
+        "dropout_rate": 0.4,
+        "val_accuracy": 0.9303534030914307
+    },
+    {
+        "learning_rate": 0.01,
+        "dropout_rate": 0.2,
+        "val_accuracy": 0.9327442646026611
+    },
+    {
+        "learning_rate": 0.01,
+        "dropout_rate": 0.3,
+        "val_accuracy": 0.9320166110992432
+    },
+    {
+        "learning_rate": 0.01,
+        "dropout_rate": 0.4,
+        "val_accuracy": 0.9311850070953369
+    },
+    {
+        "learning_rate": 0.001,
+        "dropout_rate": 0.2,
+        "val_accuracy": 0.9400207996368408
+    },
+    {
+        "learning_rate": 0.001,
+        "dropout_rate": 0.3,
+        "val_accuracy": 0.9420998096466064
+    },
+    {
+        "learning_rate": 0.001,
+        "dropout_rate": 0.4,
+        "val_accuracy": 0.9413721561431885
+    }
+]
