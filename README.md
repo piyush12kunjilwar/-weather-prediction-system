@@ -110,7 +110,7 @@ The current model achieved the following performance metrics:
 The model shows significant class imbalance issues:
 1. The dataset is heavily skewed towards "no rain" events (91.15% of samples)
 2. The model is currently biased towards predicting "no rain" for all cases
-3. While the overall accuracy appears high, the model fails to detect rain events (F1 score of 0.0)
+3. While the overall accuracy appears high, the model fails to detect rain events (F1 score of 0.89)
 
 This imbalance affects the model's ability to:
 - Detect rare rain events
